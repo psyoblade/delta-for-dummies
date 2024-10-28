@@ -3,7 +3,6 @@ version: '3.8'
 services:
   notebook:
     container_name: notebook
-    hostname: notebook
     user: root
     privileged: true
     image: psyoblade/data-engineer-notebook:1.7.5

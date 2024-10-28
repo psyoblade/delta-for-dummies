@@ -4,6 +4,7 @@ metastore_db/
 spark-warehouse/
 **/*.crc
 **/_delta_log
+**/data
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
